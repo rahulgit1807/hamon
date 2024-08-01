@@ -1,4 +1,4 @@
-# hanom
+# hamon
 
 The Python code provided in the question needs some correction. This code actually keeps track of the number of occurrences of each character in the string S.
 
